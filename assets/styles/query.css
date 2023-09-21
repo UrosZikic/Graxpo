@@ -251,3 +251,8 @@
     background-position: center !important;
   }
 }
+@media only screen and (max-width: 450px) {
+  .skill-design {
+    grid-template-columns: 1fr !important;
+  }
+}

@@ -7,6 +7,7 @@ menu.onclick = () => {
   if (count % 2 == 0) {
     navMenu.style.visibility = "visible";
     document.body.style.overflow = "hidden";
+    menu.style.color = "white";
   } else {
     navMenu.style.visibility = "hidden";
     document.body.style.overflow = "scroll";
