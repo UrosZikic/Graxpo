@@ -1,0 +1,253 @@
+@media (max-width: 76em) {
+  .email {
+    padding: 1.56rem 10rem 1.56rem 2rem !important;
+  }
+  .about {
+    flex-direction: column;
+    align-items: center;
+  }
+  .skills {
+    flex-direction: column;
+  }
+  .skills-icon-container {
+    margin-bottom: 0 !important;
+    height: 15rem !important;
+  }
+  .service-info p {
+    font-size: 2rem;
+  }
+  .service-info strong {
+    font-size: 2rem !important;
+  }
+  .subscription-info p {
+    font-size: 1.5rem;
+  }
+  .email {
+    padding: 1.56rem 2rem 1.56rem 2rem !important;
+  }
+  .subscription {
+    flex-direction: column;
+  }
+  .subscription {
+    padding: 10rem 0rem !important;
+  }
+  .CTA {
+    flex-direction: column;
+  }
+  .nav-menu {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    visibility: hidden;
+  }
+  .nav-menu a {
+    font-size: 3rem;
+    color: #fff;
+  }
+  .menu-function {
+    display: block !important;
+  }
+  .services-secondary {
+    grid-template-columns: 1fr !important;
+  }
+  .service-secondary-img img {
+    width: 50% !important;
+  }
+  .service-secondary-img {
+    text-align: center;
+  }
+}
+@media (max-width: 74em) {
+  .MOC-overlay p {
+    font-size: 1.1rem !important;
+  }
+}
+
+@media (max-width: 48em) {
+  .simple-step {
+    flex-direction: column;
+  }
+  .cta-duo {
+    flex-direction: column;
+  }
+  .step-line {
+    display: none;
+  }
+}
+
+@media (max-width: 35em) {
+  .about {
+    padding: 0rem !important;
+  }
+  .header-title h1 {
+    font-size: 2rem;
+  }
+  .header-title strong {
+    font-size: 1rem;
+  }
+
+  .services {
+    flex-direction: column;
+    /* align-items: flex-start !important; */
+  }
+  .service {
+    justify-content: center;
+    align-items: center;
+  }
+  .works {
+    flex-direction: column;
+  }
+  .subscription-info {
+    padding: 0rem 2rem;
+  }
+  .blog-layer strong {
+    font-size: 1.2rem;
+  }
+  .blog-layer p {
+    font-size: 1rem !important;
+  }
+  .layer-date {
+    font-size: 1.2rem !important;
+  }
+  .pricing {
+    flex-direction: column;
+  }
+  .CTA-info {
+    padding: 0rem 2rem;
+  }
+  .CTA-form {
+    max-width: 30rem;
+  }
+  .featured-inner-title h2 {
+    font-size: 1.8rem;
+  }
+  .carousel-flex strong {
+    font-size: 1.4rem;
+  }
+  .email {
+    padding: 1.56rem 0.5rem !important;
+  }
+  .services-secondary {
+    padding: 1rem;
+  }
+  .portfolio-overlay strong {
+    font-size: 1rem !important;
+  }
+  .create-business h2 {
+    font-size: 2rem !important;
+  }
+  .service-info p {
+    font-size: 1.5rem !important;
+  }
+  .about-info {
+    padding: 0rem 2rem;
+  }
+  .about-info p {
+    font-size: 1.4rem !important;
+  }
+  .skill-lorem {
+    font-size: 1.4rem !important;
+  }
+  .design-info p {
+    font-size: 1.4rem;
+  }
+  .skills-icon-container {
+    height: 5rem !important;
+  }
+  .navigation {
+    padding: 5rem !important;
+  }
+  .header {
+    background-size: cover !important;
+  }
+}
+
+@media (max-width: 62.5em) {
+  .MOC {
+    flex-direction: column;
+  }
+  .blog {
+    flex-direction: column;
+  }
+  .step-line {
+    width: 50rem;
+  }
+  .MOC-overlay p {
+    font-size: 3rem !important;
+  }
+}
+
+@media (max-width: 36.5em) {
+  .portfolio-categories {
+    flex-direction: column;
+    align-items: center;
+  }
+  .service p {
+    font-size: 1.4rem !important;
+  }
+}
+@media (max-width: 44em) {
+  .services {
+    flex-direction: column;
+  }
+  .service {
+    align-items: center;
+    justify-content: center;
+  }
+  .portfolio-image-overlay strong {
+    font-size: 1rem;
+  }
+  .portfolio-image-overlay p {
+    font-size: 1rem;
+  }
+}
+@media (max-width: 90.5em) {
+  .step-line {
+    width: 80rem !important;
+  }
+}
+@media (max-width: 71em) {
+  .step-line {
+    width: 60rem !important;
+  }
+}
+@media (max-width: 53em) {
+  .step-line {
+    width: 50rem !important;
+  }
+}
+@media (max-width: 32em) {
+  .portfolio-image-overlay {
+    padding: 0rem;
+  }
+  .tr-down-flex {
+    flex-direction: column !important;
+  }
+}
+
+@media (max-width: 56em) {
+  .main-portfolio-container {
+    height: 100rem;
+  }
+  .image-one,
+  .image-two,
+  .image-three,
+  .image-four,
+  .image-five,
+  .image-six,
+  .image-seven,
+  .image-eight,
+  .image-nine,
+  .image-ten,
+  .image-eleven,
+  .image-twelve {
+    background-size: cover !important;
+    background-position: center !important;
+  }
+}
